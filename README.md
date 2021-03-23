@@ -6,7 +6,7 @@ Submitted by: **Alan Cao**
 
 Time spent: **3** hours spent in total
 
-Link to project: https://hexagonal-maple-allium.glitch.me
+Link to project: https://glitch.com/embed/#!/embed/hexagonal-maple-allium?path=script.js&previewSize=0
 
 ## Required Functionality
 
